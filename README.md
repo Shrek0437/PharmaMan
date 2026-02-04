@@ -1,0 +1,2 @@
+# PharmaMan
+Pharmaceutical Management System
